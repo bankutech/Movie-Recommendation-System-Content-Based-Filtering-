@@ -1,3 +1,6 @@
+# Movie-Recommendation-System-Content-Based-Filtering-
+
+## Overview
 Movie Recommendation System
 
 This is a content-based movie recommendation system built with Python. The system suggests movies that are similar to a given movie based on their description, genres, and keywords.
@@ -115,3 +118,9 @@ Integrate with a web interface for easy use.
 Use TF-IDF or Word Embeddings for better recommendations.
 
 Add poster images and links for a more interactive experience.
+
+## Getting Started
+Please refer to the source files for specific installation and usage instructions. Ensure that your local environment meets the standard requirements for the associated technologies.
+
+## Project Structure
+This project is organized into standard directories. Key configuration files and primary source code are located in the root directory.
